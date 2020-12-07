@@ -1,0 +1,9 @@
+2020-07-24 20:10:21,137 - basepage - INFO - lanzouyun.com自动化测试开始
+2020-07-24 20:10:21,138 - basepage - INFO - 隐性等待 10 秒
+2020-07-24 20:10:21,774 - basepage - INFO - 跳转至https://lanzou.com/
+2020-07-24 20:10:23,895 - basepage - INFO - 窗口已经最大化
+2020-07-24 20:10:28,502 - 2 - INFO - 页面"蓝奏云-控制台"跳转正常,该类元素共2个，当前第1个
+2020-07-24 20:10:28,640 - basepage - INFO - Click back on current page.
+2020-07-24 20:10:33,311 - 2 - INFO - 页面"蓝奏云-控制台"跳转正常,该类元素共2个，当前第2个
+2020-07-24 20:10:33,437 - basepage - INFO - Click back on current page.
+2020-07-24 20:10:35,443 - basepage - INFO - lanzouyun.com自动化测试结束

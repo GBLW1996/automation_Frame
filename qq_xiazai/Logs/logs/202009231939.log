@@ -1,0 +1,5 @@
+2020-09-23 19:40:05,849 - basepage - INFO - qqxiazai.com自动化测试开始
+2020-09-23 19:40:05,851 - basepage - INFO - 隐性等待 10 秒
+2020-09-23 19:40:08,583 - basepage - INFO - 跳转至https://www.qqxiazai.com/
+2020-09-23 19:40:10,734 - basepage - INFO - 窗口已经最大化
+2020-09-23 20:16:05,262 - basepage - INFO - qqxiazai.com自动化测试结束

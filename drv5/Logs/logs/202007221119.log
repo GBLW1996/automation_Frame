@@ -1,0 +1,5 @@
+2020-07-22 11:20:08,999 - basepage - INFO - drv5.cn自动化测试开始
+2020-07-22 11:20:09,000 - basepage - INFO - 隐性等待 10 秒
+2020-07-22 11:20:09,444 - basepage - INFO - 跳转至http://www.drv5.cn/sfinfo/7304.html
+2020-07-22 11:20:11,568 - basepage - INFO - 窗口已经最大化
+2020-07-22 11:20:24,918 - basepage - INFO - drv5.cn自动化测试结束

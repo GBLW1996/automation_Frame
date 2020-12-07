@@ -1,0 +1,9 @@
+2020-07-23 10:34:46,727 - basepage - INFO - kelepan.cn自动化测试开始
+2020-07-23 10:34:46,728 - basepage - INFO - 隐性等待 10 秒
+2020-07-23 10:34:48,068 - basepage - INFO - 跳转至http://www.kelepan.cn/
+2020-07-23 10:34:50,188 - basepage - INFO - 窗口已经最大化
+2020-07-23 10:34:54,156 - 2 - INFO - 页面"注册新帐号 - 可乐网盘-云储存-分享是一种收获"跳转正常,该类元素共2个，当前第1个
+2020-07-23 10:34:54,449 - basepage - INFO - Click back on current page.
+2020-07-23 10:34:58,797 - 2 - INFO - 页面"网盘登录 - 可乐网盘-云储存-分享是一种收获"跳转正常,该类元素共2个，当前第2个
+2020-07-23 10:34:59,092 - basepage - INFO - Click back on current page.
+2020-07-23 10:35:01,093 - basepage - INFO - kelepan.cn自动化测试结束
